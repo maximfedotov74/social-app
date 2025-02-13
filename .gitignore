@@ -1,0 +1,8 @@
+.DS_Store
+.development.env
+.production.env
+/pgdata
+/minio
+/bin
+/saves
+/tmp
