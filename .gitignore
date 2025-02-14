@@ -3,6 +3,9 @@
 .production.env
 /pgdata
 /minio
+/redis
 /bin
 /saves
 /tmp
+/node_modules
+/internal/web/public/js
