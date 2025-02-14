@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../dev/js/main.ts"],
-  "sourcesContent": ["import Alpine from 'alpinejs';\nimport { userId } from './shared/vars';\n\nconsole.log(userId, ' Hello!');\n\nAlpine.data('test', () => ({\n\titems: [],\n\thello: () => {\n\t\tconsole.log('hello2');\n\t},\n}));\n"],
-  "mappings": "wCAGA,QAAQ,IAAI,GAAQ,SAAS,EAE7BA,EAAO,KAAK,OAAQ,KAAO,CAC1B,MAAO,CAAC,EACR,MAAO,IAAM,CACZ,QAAQ,IAAI,QAAQ,CACrB,CACD,EAAE",
-  "names": ["module_default"]
-}
